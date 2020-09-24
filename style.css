@@ -1,0 +1,47 @@
+#info-container {
+ position: fixed;
+ top: 33%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ color: rgb(245, 245, 255);
+ font-family: "Arial";
+}
+
+#info-container * {
+ text-align: center;
+ display: block;
+}
+
+#move-result {
+ font-size: 25px;
+}
+
+#score {
+ font-size: 18px;
+}
+
+
+#buttons-container {
+ position: fixed;
+ top: 67%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+
+.rps-button {
+ width: 200px;
+ height: 200px;
+ border: 2px solid rgb(50, 50, 55);
+ border-radius: 100%;
+ background: rgb(75, 75, 85);
+}
+.rps-alternative {
+ display: none;
+}
+
+.alternative .rps-button {
+ display: none;
+}
+.alternative .rps-alternative {
+ display: initial;
+}
