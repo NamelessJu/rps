@@ -1,3 +1,7 @@
+body {
+ background: rgb(50, 50, 55);
+}
+
 #info-container {
  position: fixed;
  top: 33%;
@@ -29,11 +33,13 @@
 }
 
 .rps-button {
- width: 200px;
- height: 200px;
- border: 2px solid rgb(50, 50, 55);
+ width: 50px;
+ height: 50px;
+ border: 2px solid rgb(75, 75, 80);
  border-radius: 100%;
- background: rgb(75, 75, 85);
+ background: rgb(100, 100, 110);
+ font-size: 20px;
+ margin: 0 20px;
 }
 .rps-alternative {
  display: none;
