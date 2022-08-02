@@ -1,5 +1,5 @@
 # ✊🏻 Rock - ✋🏻 Paper - ✌🏻 Scissors
 
-Play: https://developer-ju.github.io/rps/
+Play: https://namelessju.github.io/rps/
 
-Version with alternative Buttons: https://developer-ju.github.io/rps/#alternative
+Version with alternative Buttons: https://namelessju.github.io/rps/#alternative
